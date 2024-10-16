@@ -22,3 +22,6 @@ A simple weather app that fetches real-time hourly weather data based on the use
 - Enter the name of the city in the input field.
 - Click the search button to fetch weather data.
 - The app will display the relevant weather information for the current hour.
+
+
+Link - https://jatin0670.github.io/Weather_web/
